@@ -1,0 +1,9 @@
+name: ACC
+author: Xyberviri
+main: com.xyberviri.bukkit.acc.ACC
+version: 1.0
+description: Permission Verify Tool
+commands:
+   acc:
+      description: Displays permission based on your user
+      usage: type /acc [permision.node] to verify permission
